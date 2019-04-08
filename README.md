@@ -6,8 +6,11 @@ Hackers use different types of threat vectors to gain access, steal, threaten or
 
 In this project, using tableau data visualization tool, I have generated reports to show-
 
-•	Proportion of different attack vectors used in 2018 to carry out a cyber-attack
+•	Proportion of different attack vectors used in 2018 to carry out a cyber-attack (Source: Hackmageddon)
+
 •	2017 vs 2018 cyber crime statistics
+
 •	Top 20 countries in the world that encountered cyber attacks during 2018
+
 •	Top 10 companies that have undergone huge revenue losses because of cyber attacks between 2010 - 2019
 
