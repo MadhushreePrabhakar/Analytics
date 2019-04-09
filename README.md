@@ -8,9 +8,7 @@ In this project, using tableau data visualization tool, I have generated reports
 
 •	Proportion of different attack vectors used in 2018 to carry out a cyber-attack (Source: Hackmageddon)
 
-•	2010 - 2018 cyber crime trends
-
 •	Top 20 countries in the world that frequently encounter cyber attacks
 
-•	Top 10 companies that have undergone huge revenue losses because of cyber attacks between 2010 - 2019
+•	Major data breaches in companies from 2011 - 2018 and the number of records stolen due to the breach
 
